@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="exlv_bg_color">#ededed</color>
+    <color name="exlv_border_color">#c6c6c6</color>
+    <color name="child_item_color">#f2f2f2</color>
+    
+    <color name="my_white">#ffffff</color>
+    
+</resources>

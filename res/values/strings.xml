@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings for for Activities and Fragments -->
+    <string name="app_name">Expandable-ListView-with-Custom-Adapter </string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Click Me!</string>
+    <string name="title_message">Example - Expandable ListView with Custom Adapter</string>
+    
+    <!-- ExLv Group data Strings -->
+    <string-array name="groups" translatable="false">
+        <item>Cars</item>
+        <item>Colors</item>
+        <item>Birds</item>
+        <item>Genders</item>
+        <item>Programming Languages</item>
+    </string-array>
+      
+    <!-- ExLv Child Data Strings -->
+    <string-array name="Cars" translatable="false">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>BMW</item>
+        <item>VW</item>
+        <item>GMC</item>
+    </string-array>
+    
+     <!-- ExLv Child Data Strings -->
+    <string-array name="Colors" translatable="fasle">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+    
+     <!-- ExLv Child Data Strings -->
+    <string-array name="Birds" translatable="fasle">
+        <item>Pigeon</item>
+        <item>Sparrow</item>
+        <item>Parrot</item>
+        <item>Eagle</item>
+    </string-array>
+    
+     <!-- ExLv Child Data Strings -->
+    <string-array name="Genders" translatable="fasle">
+        <item>Female</item>
+        <item>Male</item>
+     </string-array>
+     
+     <!-- ExLv Child Data Strings -->
+    <string-array name="ProgrammingLanguages" translatable="fasle">
+        <item>Java</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>C++</item>
+     </string-array>
+    
+</resources>

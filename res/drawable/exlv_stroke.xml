@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+     
+     <!-- the background color of the View -->
+    <solid android:color="@color/my_white" />
+    
+    <!-- the border color and width of the View   -->
+     <stroke android:width="1dip" android:color="@color/exlv_border_color"/>
+
+</shape>
